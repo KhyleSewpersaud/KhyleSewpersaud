@@ -1,7 +1,7 @@
 <h1 align="start">Hey👋 I'm Khyle</h1>
 <h3 align="start">Sleep enthusiast with a knack for software engineering</h3>
 
-- 🔭 I’m currently working at [Rippling](https://www.rippling.com/)
+- 🔭 I’m currently working at <a href="https://www.rippling.com/" target="_blank" rel="noopener noreferrer">Rippling</a>
 
 - ✉️ Reach me at khylesewpersaud@gmail.com 
 
