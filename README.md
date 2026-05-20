@@ -1,4 +1,4 @@
-<h1 align="start">Hey!👋 I'm Khyle</h1>
+<h1 align="start">Hey👋 I'm Khyle</h1>
 <h3 align="start">Sleep enthusiast with a knack for software engineering</h3>
 
 - 🔭 I’m currently working at [Rippling](https://www.rippling.com/)
