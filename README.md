@@ -1,13 +1,9 @@
 <h1 align="start">Hey!👋 I'm Khyle</h1>
 <h3 align="start">Sleep enthusiast with a knack for software engineering</h3>
 
-- 🔭 I’m currently working at [Shopify](https://www.shopify.com/)
-
-- 👨‍💻 Check out my personal portfolio [www.khylesewpersaud.com](www.khylesewpersaud.com)
+- 🔭 I’m currently working at [Rippling](https://www.rippling.com/)
 
 - ✉️ Reach me at khylesewpersaud@gmail.com 
-
-- ⚡ Fun fact (aside from I like to sleep) is **I like collecting lighters**
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
